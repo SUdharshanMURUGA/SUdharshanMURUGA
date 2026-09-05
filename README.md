@@ -25,18 +25,18 @@
 
 ## 👋 About Me
 
-I'm a Data Engineer at **Tata Consultancy Services**, working within the **Liberty Mutual Insurance** account — designing ETL workflows, data models, and integrations that support enterprise-scale analytics. My path here ran through software development, QA/automation, and AI/ML, and that broader background shapes how I think about data systems: not just "does the pipeline run," but "can the business trust what comes out of it."
+I started out building interfaces as a **Frontend Developer**, moved into **AI/ML engineering** to work on model-driven applications, and grew into a **Full-Stack Developer** comfortable across the entire application layer. That path naturally led me toward **Data Engineering** — because every frontend, every model, and every full-stack app is only as good as the data feeding it, and I wanted to own that layer too.
 
-I hold an M.Sc. in Computer Science (CGPA 9.19) and graduated top of my undergraduate class with a Gold Medal in B.Sc. Computer Science (CGPA 9.55). Right now I'm deliberately deepening my Data Engineering fundamentals — advanced SQL, distributed processing, orchestration, and cloud platforms — while keeping my frontend and ML skills active as supporting tools rather than my main focus.
+Today I work as a Data Engineer at **Tata Consultancy Services**, within the **Liberty Mutual Insurance** account — designing ETL workflows, data models, and integrations that support enterprise-scale analytics. I hold an M.Sc. in Computer Science (CGPA 9.19) and graduated top of my undergraduate class with a Gold Medal in B.Sc. Computer Science (CGPA 9.55).
 
 <div align="center">
 
 ```
-   Software Dev   →   QA / Automation   →   Python + SQL   →   AI/ML
-                              ↓
-                    ┌───────────────────┐
-                    │  DATA ENGINEERING │
-                    └───────────────────┘
+   Frontend Developer   →   AI/ML Engineering   →   Full-Stack Developer
+                                    ↓
+                          ┌───────────────────┐
+                          │  DATA ENGINEERING │
+                          └───────────────────┘
 ```
 
 </div>
