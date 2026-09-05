@@ -2,16 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Sudharshan%20Murugan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://sudharshan-portfolio-delta.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines+at+TCS;Turning+raw+data+into+real+insights;Frontend+%2B+ML+%2B+Data+Engineering;Always+learning%2C+always+building." alt="Typing SVG" />
-</a>
-
-<br/>
+### 💼 Data Engineer @ TCS &nbsp;|&nbsp; 🎨 Frontend Developer &nbsp;|&nbsp; 🤖 AI/ML Enthusiast
 
 <a href="https://sudharshan-portfolio-delta.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Now-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:sudharshan100002@gmail.com?subject=Hi%20Sudharshan">
+<a href="mailto:sudharshan100002@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/SUdharshanMURUGA">
@@ -33,27 +29,6 @@ currently_learning: React.js, Cloud Data Platforms
 passion: Transforming complex data problems into simple, reliable systems
 contact: sudharshan100002@gmail.com
 ```
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUdharshanMURUGA&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-> 📈 These cards are live and update automatically as you commit — push real projects and this section fills in on its own.
 
 <br/>
 
@@ -89,14 +64,6 @@ contact: sudharshan100002@gmail.com
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SUdharshanMURUGA&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -189,11 +156,7 @@ Inventory management app with CRUD operations, real-time updates, and reporting 
 <div align="center">
 
 <a href="https://sudharshan-portfolio-delta.vercel.app/">🌐 Portfolio</a> •
-<a href="mailto:sudharshan100002@gmail.com?subject=Hi%20Sudharshan">📧 Email</a> •
+<a href="mailto:sudharshan100002@gmail.com">📧 Email</a> •
 <a href="https://github.com/SUdharshanMURUGA">💻 GitHub</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SUdharshanMURUGA&style=flat-square&color=6366F1" alt="profile views"/>
 
 </div>
