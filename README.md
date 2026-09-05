@@ -11,7 +11,7 @@
 <a href="https://sudharshan-portfolio-delta.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Now-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:sudharshan100002@gmail.com">
+<a href="mailto:sudharshan100002@gmail.com?subject=Hi%20Sudharshan">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/SUdharshanMURUGA">
@@ -40,8 +40,8 @@ contact: sudharshan100002@gmail.com
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
@@ -96,7 +96,7 @@ contact: sudharshan100002@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SUdharshanMURUGA&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=SUdharshanMURUGA&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -189,7 +189,7 @@ Inventory management app with CRUD operations, real-time updates, and reporting 
 <div align="center">
 
 <a href="https://sudharshan-portfolio-delta.vercel.app/">🌐 Portfolio</a> •
-<a href="mailto:sudharshan100002@gmail.com">📧 Email</a> •
+<a href="mailto:sudharshan100002@gmail.com?subject=Hi%20Sudharshan">📧 Email</a> •
 <a href="https://github.com/SUdharshanMURUGA">💻 GitHub</a>
 
 <br/><br/>
