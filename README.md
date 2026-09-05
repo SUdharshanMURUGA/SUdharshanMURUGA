@@ -5,7 +5,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/TCS-Data%20Engineer-0f172a?style=for-the-badge&labelColor=1e293b&color=0891b2"/>
-<img src="https://img.shields.io/badge/Domain-Liberty%20Mutual%20Insurance-0f172a?style=for-the-badge&labelColor=1e293b&color=6366f1"/>
+<img src="https://img.shields.io/badge/Domain-Insurance%20Domain-0f172a?style=for-the-badge&labelColor=1e293b&color=6366f1"/>
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-0f172a?style=for-the-badge&labelColor=1e293b&color=64748b"/>
 
 <br/><br/>
