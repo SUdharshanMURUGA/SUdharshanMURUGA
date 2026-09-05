@@ -8,9 +8,6 @@
   <a href="mailto:sudharshan100002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/SUdharshanMURUGA">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
@@ -23,21 +20,6 @@
 - 🌱 Currently deepening my skills in **React.js** and cloud-based data platforms
 - 💡 I enjoy turning complex data problems into simple, reliable pipelines and applications
 - 📫 Reach me at **sudharshan100002@gmail.com**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
-> 📈 These cards update automatically as you commit — the more real projects you push, the better they'll look.
 
 ---
 
@@ -110,6 +92,5 @@ Built Python-based tools and AI models for intelligent problem-solving on real-w
 
 <p align="center">
   <a href="https://sudharshan-portfolio-delta.vercel.app/">🌐 Portfolio</a> •
-  <a href="mailto:sudharshan100002@gmail.com">📧 Email</a> •
-  <a href="https://github.com/SUdharshanMURUGA">💻 GitHub</a>
+  <a href="mailto:sudharshan100002@gmail.com">📧 Email</a>
 </p>
