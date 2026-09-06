@@ -151,62 +151,50 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Sudharshan's GitHub Stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Sudharshan's Top Languages"
-  />
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true"
-    alt="Sudharshan's GitHub Streak"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&hide_border=true"
+  height="165"
+  alt="GitHub Statistics"
+/>
 
-</div>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SUdharshanMURUGA&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="Sudharshan's GitHub Activity Graph"
-  />
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=SUdharshanMURUGA&theme=tokyonight&no-frame=true&row=1&column=6"
-      alt="GitHub Profile Trophies"
-    />
-  </a>
-
-</div>
-
-<div align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=SUdharshanMURUGA&label=Profile%20Views&style=for-the-badge"
-    alt="Profile Views"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&hide_border=true"
+  height="165"
+  alt="Top Languages"
+/>
 
 </div>
 
 <br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&hide_border=true"
+  height="165"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+<br/>
+
+## 🧩 Contribution Activity
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="95%"
+  alt="3D GitHub Contribution Graph"
+/>
+
+</div>
+
 ## 🏅 Achievements & Certifications
 
 **Achievements**
