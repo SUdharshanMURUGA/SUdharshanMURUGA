@@ -173,19 +173,72 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<table>
+<tr>
+<td align="center" width="25%">
 <br/>
+<strong>📦</strong><br/>
+<strong>12</strong><br/>
+<sub>Repositories</sub>
+<br/><br/>
+</td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true" />
-
+<td align="center" width="25%">
 <br/>
+<strong>📈</strong><br/>
+<strong>37</strong><br/>
+<sub>Contributions</sub>
+<br/><br/>
+</td>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SUdharshanMURUGA&color=blueviolet&style=flat)
-[![Followers](https://img.shields.io/github/followers/SUdharshanMURUGA?label=Followers&style=social)](https://github.com/SUdharshanMURUGA)
+<td align="center" width="25%">
+<br/>
+<strong>👥</strong><br/>
+<strong>15</strong><br/>
+<sub>Followers</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<strong>👀</strong><br/>
+<strong>37</strong><br/>
+<sub>Profile Views</sub>
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+<br/>
+🔥 <strong>Current Streak</strong><br/>
+<strong>1 Day</strong>
+<br/><br/>
+</td>
+
+<td align="center" colspan="2">
+<br/>
+🏆 <strong>Longest Streak</strong><br/>
+<strong>2 Days</strong>
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="4">
+<br/>
+💻 <strong>Most Used Languages</strong>
+<br/><br/>
+
+<code>Python</code> ████████████████ 45%<br/>
+<code>Java</code>&nbsp;&nbsp;&nbsp; ██████████ 28%<br/>
+<code>SQL</code>&nbsp;&nbsp;&nbsp;&nbsp; ███████ 17%<br/>
+<code>JavaScript</code> ████ 10%
+
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
