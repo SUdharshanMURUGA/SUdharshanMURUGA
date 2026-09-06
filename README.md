@@ -12,7 +12,9 @@
 
 <a href="https://sudharshan-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0891b2?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sudharshan-murugan-8323b4241/"><img src="https://img.shields.io/badge/💼_LinkedIn-0e76a8?style=for-the-badge&logoColor=white"/></a>
-<a href="mailto:sudharshan100002@gmail.com"><img src="https://img.shields.io/badge/📧_Email-334155?style=for-the-badge&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sudharshan100002@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧_Email-334155?style=for-the-badge" alt="Email"/>
+</a>
 <a href="https://github.com/SUdharshanMURUGA"><img src="https://img.shields.io/badge/💻_GitHub-171717?style=for-the-badge&logoColor=white"/></a>
 
 </div>
