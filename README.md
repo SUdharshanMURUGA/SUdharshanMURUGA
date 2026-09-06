@@ -176,6 +176,8 @@ Inventory management application with CRUD operations, real-time updates, and re
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true" />
@@ -186,7 +188,7 @@ Inventory management application with CRUD operations, real-time updates, and re
 [![Followers](https://img.shields.io/github/followers/SUdharshanMURUGA?label=Followers&style=social)](https://github.com/SUdharshanMURUGA)
 
 </div>
-
+<br/>
 
 ## 🏅 Achievements & Certifications
 
