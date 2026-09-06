@@ -81,74 +81,29 @@ flowchart LR
 
 ### 🌱 Currently Learning
 
+<h3>🌱 Currently Learning</h3>
+
 <p align="left">
-
-  <!-- Advanced SQL -->
-  <img
-    src="https://cdn.simpleicons.org/postgresql"
-    height="50"
-    alt="Advanced SQL"
-    title="Advanced SQL"
-  />
-
-  <!-- Apache Airflow -->
-  <img
-    src="https://cdn.simpleicons.org/apacheairflow"
-    height="50"
-    alt="Apache Airflow"
-    title="Apache Airflow"
-  />
-
-  <!-- PySpark -->
-  <img
-    src="https://cdn.simpleicons.org/apachespark"
-    height="50"
-    alt="PySpark"
-    title="PySpark"
-  />
-
-  <!-- AWS -->
-  <img
-    src="https://skillicons.dev/icons?i=aws"
-    height="50"
-    alt="AWS"
-    title="AWS"
-  />
-
-  <!-- Data Warehousing -->
-  <img
-    src="https://cdn.simpleicons.org/snowflake"
-    height="50"
-    alt="Data Warehousing"
-    title="Data Warehousing"
-  />
-
-  <!-- Data Modeling -->
-  <img
-    src="https://skillicons.dev/icons?i=postgres"
-    height="50"
-    alt="Data Modeling"
-    title="Data Modeling"
-  />
-
-  <!-- Distributed Processing -->
-  <img
-    src="https://cdn.simpleicons.org/apachekafka"
-    height="50"
-    alt="Distributed Processing"
-    title="Distributed Processing"
-  />
-
-  <!-- React.js -->
-  <img
-    src="https://cdn.simpleicons.org/react"
-    height="50"
-    alt="React.js"
-    title="React.js"
-  />
-
+  <img src="https://cdn.simpleicons.org/postgresql" height="50" alt="Advanced SQL" title="Advanced SQL"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="50" alt="Apache Airflow" title="Apache Airflow"/>
+  <img src="https://cdn.simpleicons.org/apachespark" height="50" alt="PySpark" title="PySpark"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" title="AWS"/>
+  <img src="https://cdn.simpleicons.org/snowflake" height="50" alt="Data Warehousing" title="Data Warehousing"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="Data Modeling" title="Data Modeling"/>
+  <img src="https://cdn.simpleicons.org/apachekafka" height="50" alt="Distributed Processing" title="Distributed Processing"/>
+  <img src="https://cdn.simpleicons.org/react" height="50" alt="React.js" title="React.js"/>
 </p>
-`Advanced SQL` `Apache Airflow` `PySpark` `AWS` `Data Warehousing` `Data Modeling` `Distributed Processing` `React.js`
+
+<p align="left">
+  <code>Advanced SQL</code>
+  <code>Apache Airflow</code>
+  <code>PySpark</code>
+  <code>AWS</code>
+  <code>Data Warehousing</code>
+  <code>Data Modeling</code>
+  <code>Distributed Processing</code>
+  <code>React.js</code>
+</p>
 
 **🔭 Exploring**
 
