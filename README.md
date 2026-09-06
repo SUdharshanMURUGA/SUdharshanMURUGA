@@ -175,68 +175,95 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 <table>
 <tr>
+
 <td align="center" width="25%">
-<br/>
-<strong>📦</strong><br/>
-<strong>12</strong><br/>
+<br>
+📦<br>
+<strong>12</strong><br>
 <sub>Repositories</sub>
-<br/><br/>
+<br><br>
 </td>
 
 <td align="center" width="25%">
-<br/>
-<strong>📈</strong><br/>
-<strong>37</strong><br/>
+<br>
+📈<br>
+<strong>37</strong><br>
 <sub>Contributions</sub>
-<br/><br/>
+<br><br>
 </td>
 
 <td align="center" width="25%">
-<br/>
-<strong>👥</strong><br/>
-<strong>15</strong><br/>
+<br>
+👥<br>
+<strong>15</strong><br>
 <sub>Followers</sub>
-<br/><br/>
+<br><br>
 </td>
 
 <td align="center" width="25%">
-<br/>
-<strong>👀</strong><br/>
-<strong>37</strong><br/>
+<br>
+👀<br>
+<strong>37</strong><br>
 <sub>Profile Views</sub>
-<br/><br/>
+<br><br>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" colspan="2">
-<br/>
-🔥 <strong>Current Streak</strong><br/>
+🔥 <strong>Current Streak</strong><br>
 <strong>1 Day</strong>
-<br/><br/>
+<br><br>
 </td>
 
 <td align="center" colspan="2">
-<br/>
-🏆 <strong>Longest Streak</strong><br/>
+🏆 <strong>Longest Streak</strong><br>
 <strong>2 Days</strong>
-<br/><br/>
+<br><br>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" colspan="4">
-<br/>
+
 💻 <strong>Most Used Languages</strong>
-<br/><br/>
 
-<code>Python</code> ████████████████ 45%<br/>
-<code>Java</code>&nbsp;&nbsp;&nbsp; ██████████ 28%<br/>
-<code>SQL</code>&nbsp;&nbsp;&nbsp;&nbsp; ███████ 17%<br/>
-<code>JavaScript</code> ████ 10%
+<br><br>
 
-<br/><br/>
+<table>
+<tr>
+<td align="left"><strong>🐍 Python</strong></td>
+<td>████████████████████</td>
+<td><strong>45%</strong></td>
+</tr>
+
+<tr>
+<td align="left"><strong>☕ Java</strong></td>
+<td>████████████</td>
+<td><strong>28%</strong></td>
+</tr>
+
+<tr>
+<td align="left"><strong>🗄️ SQL</strong></td>
+<td>███████</td>
+<td><strong>17%</strong></td>
+</tr>
+
+<tr>
+<td align="left"><strong>🟨 JavaScript</strong></td>
+<td>████</td>
+<td><strong>10%</strong></td>
+</tr>
+</table>
+
+<br>
+
 </td>
+
 </tr>
 </table>
 
