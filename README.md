@@ -134,9 +134,9 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 *A running collection of Data Engineering projects — updated continuously as each one ships.*
 
-| Project | Status | Stack |
-|---|---|---|
-| 🌦️ Weather ETL Pipeline | 🔨 In Progress | Python, REST API, Pandas, SQL, Data Validation |
+| Project | Status | Technologies |
+| ------- | ------ | ------------ |
+| 🌦️ [Skyline Ledger — Weather Data Pipeline](https://sudharshanmuruga.github.io/Skyline-Ledger-weather/) | 🟢 Live | JavaScript, REST API, ETL, Data Validation, Data Quality |
 | 📊 SQL Analytics Project | 🕒 Coming Soon | SQL, Data Modeling |
 | 🏢 Data Warehouse Project | 🕒 Coming Soon | SQL, Data Warehousing |
 | ⚡ PySpark Data Processing | 🕒 Coming Soon | PySpark, Distributed Processing |
