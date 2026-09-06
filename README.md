@@ -80,14 +80,14 @@ flowchart LR
 **🌱 Currently Learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="Advanced SQL" title="Advanced SQL"/>
-  <img src="https://skillicons.dev/icons?i=airflow" height="50" alt="Apache Airflow" title="Apache Airflow"/>
-  <img src="https://skillicons.dev/icons?i=spark" height="50" alt="PySpark" title="PySpark"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=snowflake" height="50" alt="Data Warehousing" title="Data Warehousing"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="Data Modeling" title="Data Modeling"/>
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="Distributed Processing" title="Distributed Processing"/>
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React.js" title="React.js"/>
+  <img src="https://cdn.simpleicons.org/postgresql" height="50" alt="Advanced SQL" title="Advanced SQL"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="50" alt="Apache Airflow" title="Apache Airflow"/>
+  <img src="https://cdn.simpleicons.org/apachespark" height="50" alt="PySpark" title="PySpark"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" height="50" alt="AWS" title="AWS"/>
+  <img src="https://cdn.simpleicons.org/snowflake" height="50" alt="Data Warehousing" title="Data Warehousing"/>
+  <img src="https://cdn.simpleicons.org/dbt" height="50" alt="Data Modeling" title="Data Modeling"/>
+  <img src="https://cdn.simpleicons.org/apachekafka" height="50" alt="Distributed Processing" title="Distributed Processing"/>
+  <img src="https://cdn.simpleicons.org/react" height="50" alt="React.js" title="React.js"/>
 </p>
 
 `Advanced SQL` `Apache Airflow` `PySpark` `AWS` `Data Warehousing` `Data Modeling` `Distributed Processing` `React.js`
