@@ -85,6 +85,8 @@ flowchart LR
 
 **🔭 Exploring**
 
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,ts,tailwind&perline=8"/>
+
 `TensorFlow` `Scikit-learn` `OpenCV` `TypeScript` `Tailwind CSS` `Docker`
 
 <sub>I'm intentionally splitting this into three tiers rather than one long list — what I ship with in production, what I'm actively building depth in, and what I've touched but don't claim expertise in.</sub>
