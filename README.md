@@ -171,6 +171,8 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
 <table>
@@ -179,23 +181,23 @@ Inventory management application with CRUD operations, real-time updates, and re
 <td align="center" width="25%">
 <br>
 📦<br>
-<strong>12</strong><br>
+<strong>7</strong><br>
 <sub>Repositories</sub>
 <br><br>
 </td>
 
 <td align="center" width="25%">
 <br>
-📈<br>
-<strong>37</strong><br>
-<sub>Contributions</sub>
+⭐<br>
+<strong>1</strong><br>
+<sub>Stars</sub>
 <br><br>
 </td>
 
 <td align="center" width="25%">
 <br>
 👥<br>
-<strong>15</strong><br>
+<strong>6</strong><br>
 <sub>Followers</sub>
 <br><br>
 </td>
@@ -203,7 +205,7 @@ Inventory management application with CRUD operations, real-time updates, and re
 <td align="center" width="25%">
 <br>
 👀<br>
-<strong>37</strong><br>
+<strong>—</strong><br>
 <sub>Profile Views</sub>
 <br><br>
 </td>
@@ -214,13 +216,13 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 <td align="center" colspan="2">
 🔥 <strong>Current Streak</strong><br>
-<strong>1 Day</strong>
+<strong>—</strong>
 <br><br>
 </td>
 
 <td align="center" colspan="2">
 🏆 <strong>Longest Streak</strong><br>
-<strong>2 Days</strong>
+<strong>—</strong>
 <br><br>
 </td>
 
@@ -232,31 +234,33 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 💻 <strong>Most Used Languages</strong>
 
-<br>
+<br><br>
+
 <table>
 <tr>
-<td align="left"><strong>🐍 Python</strong></td>
-<td>████████████████████</td>
-<td><strong>45%</strong></td>
-</tr>
-
-<tr>
-<td align="left"><strong>☕ Java</strong></td>
-<td>████████████</td>
-<td><strong>28%</strong></td>
-</tr>
-
-<tr>
-<td align="left"><strong>🗄️ SQL</strong></td>
-<td>███████</td>
-<td><strong>17%</strong></td>
-</tr>
-
-<tr>
 <td align="left"><strong>🟨 JavaScript</strong></td>
-<td>████</td>
-<td><strong>10%</strong></td>
+<td>████████████████</td>
+<td><strong>—</strong></td>
 </tr>
+
+<tr>
+<td align="left"><strong>🔷 TypeScript</strong></td>
+<td>██████████████</td>
+<td><strong>—</strong></td>
+</tr>
+
+<tr>
+<td align="left"><strong>🐍 Python</strong></td>
+<td>██████████</td>
+<td><strong>—</strong></td>
+</tr>
+
+<tr>
+<td align="left"><strong>🌐 HTML</strong></td>
+<td>██████</td>
+<td><strong>—</strong></td>
+</tr>
+
 </table>
 
 <br>
@@ -267,6 +271,7 @@ Inventory management application with CRUD operations, real-time updates, and re
 </table>
 
 </div>
+
 
 ## 🏅 Achievements & Certifications
 
