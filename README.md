@@ -169,58 +169,21 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 <br/>
 
-## 📊 GitHub Stats
-
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td colspan="3" align="center">
-<strong>📊 GitHub Statistics</strong>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<strong>Repositories</strong><br/>
-12
-</td>
-
-<td align="center">
-<strong>Contributions</strong><br/>
-37
-</td>
-
-<td align="center">
-<strong>Followers</strong><br/>
-15
-</td>
-</tr>
-
-<tr>
-<td colspan="3">
-
-🔥 <strong>Current Streak</strong> &nbsp; 1 day  
-🏆 <strong>Longest Streak</strong> &nbsp; 2 days
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-💻 <strong>Most Used Languages</strong>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br/>
 
-Python&nbsp;&nbsp; ████████████████ &nbsp;45%  
-Java&nbsp;&nbsp;&nbsp;&nbsp; ██████████ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28%  
-SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███████ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17%  
-JavaScript&nbsp; ████ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%
-
-</td>
-</tr>
-
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat)
+[![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social)](https://github.com/YOUR-USERNAME)
 
 </div>
 
