@@ -152,30 +152,61 @@ Inventory management application with CRUD operations, real-time updates, and re
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true"/>
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Sudharshan's GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Sudharshan's Top Languages"
+  />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true"/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true"
+    alt="Sudharshan's GitHub Streak"
+  />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUdharshanMURUGA&theme=tokyo-night&hide_border=true" width="95%"/>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SUdharshanMURUGA&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="Sudharshan's GitHub Activity Graph"
+  />
+
 </div>
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=SUdharshanMURUGA&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</a>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=SUdharshanMURUGA&theme=tokyonight&no-frame=true&row=1&column=6"
+      alt="GitHub Profile Trophies"
+    />
+  </a>
+
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SUdharshanMURUGA&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=SUdharshanMURUGA&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
+
 </div>
 
 <br/>
-
 ## 🏅 Achievements & Certifications
 
 **Achievements**
