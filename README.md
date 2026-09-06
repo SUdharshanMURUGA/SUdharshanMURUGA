@@ -232,8 +232,7 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 💻 <strong>Most Used Languages</strong>
 
-<br><br>
-
+<br>
 <table>
 <tr>
 <td align="left"><strong>🐍 Python</strong></td>
