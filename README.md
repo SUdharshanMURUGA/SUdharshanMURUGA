@@ -77,10 +77,6 @@ flowchart LR
 
 `Python` `SQL` `ETL/ELT` `Pandas` `MySQL` `MongoDB` `Git` `Postman`
 
-**🌱 Currently Learning**
-
-### 🌱 Currently Learning
-
 <h3>🌱 Currently Learning</h3>
 
 <p align="left">
