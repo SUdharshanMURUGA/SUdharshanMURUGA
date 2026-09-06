@@ -172,30 +172,57 @@ Inventory management application with CRUD operations, real-time updates, and re
 ## 📊 GitHub Stats
 
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUdharshanMURUGA&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
+<table>
+<tr>
+<td colspan="3" align="center">
+<strong>📊 GitHub Statistics</strong>
+</td>
+</tr>
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=SUdharshanMURUGA&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</a>
-</div>
+<tr>
+<td align="center">
+<strong>Repositories</strong><br/>
+12
+</td>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SUdharshanMURUGA&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
-</div>
+<td align="center">
+<strong>Contributions</strong><br/>
+37
+</td>
+
+<td align="center">
+<strong>Followers</strong><br/>
+15
+</td>
+</tr>
+
+<tr>
+<td colspan="3">
+
+🔥 <strong>Current Streak</strong> &nbsp; 1 day  
+🏆 <strong>Longest Streak</strong> &nbsp; 2 days
 
 <br/>
+
+💻 <strong>Most Used Languages</strong>
+
+<br/><br/>
+
+Python&nbsp;&nbsp; ████████████████ &nbsp;45%  
+Java&nbsp;&nbsp;&nbsp;&nbsp; ██████████ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28%  
+SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███████ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17%  
+JavaScript&nbsp; ████ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ## 🏅 Achievements & Certifications
 
