@@ -136,8 +136,7 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 | Project | Status | Technologies |
 | ------- | ------ | ------------ |
-| 🌦️ Skyline Ledger | 🟢 Live | Weather Data Engineering & ETL |
-| ------------------ | ------- | ------------------------------- |
+| 🌦️ [Skyline Ledger](https://sudharshanmuruga.github.io/Skyline-Ledger-weather/) | 🟢 Live | ETL · Data Validation · Data Quality · REST API |
 | 📊 SQL Analytics Project | 🕒 Coming Soon | SQL, Data Modeling |
 | 🏢 Data Warehouse Project | 🕒 Coming Soon | SQL, Data Warehousing |
 | ⚡ PySpark Data Processing | 🕒 Coming Soon | PySpark, Distributed Processing |
