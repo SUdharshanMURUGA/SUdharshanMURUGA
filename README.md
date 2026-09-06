@@ -171,8 +171,6 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
 <table>
@@ -181,7 +179,7 @@ Inventory management application with CRUD operations, real-time updates, and re
 <td align="center" width="25%">
 <br>
 📦<br>
-<strong>7</strong><br>
+<strong>8</strong><br>
 <sub>Repositories</sub>
 <br><br>
 </td>
@@ -204,25 +202,9 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 <td align="center" width="25%">
 <br>
-👀<br>
-<strong>—</strong><br>
-<sub>Profile Views</sub>
-<br><br>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" colspan="2">
-🔥 <strong>Current Streak</strong><br>
-<strong>—</strong>
-<br><br>
-</td>
-
-<td align="center" colspan="2">
-🏆 <strong>Longest Streak</strong><br>
-<strong>—</strong>
+👤<br>
+<strong>7</strong><br>
+<sub>Following</sub>
 <br><br>
 </td>
 
@@ -232,33 +214,39 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 <td align="center" colspan="4">
 
-💻 <strong>Most Used Languages</strong>
+💻 <strong>Languages & Technologies Used</strong>
 
-<br><br>
-
+<br>
 <table>
+
 <tr>
-<td align="left"><strong>🟨 JavaScript</strong></td>
+<td align="left"><strong>🔵 TypeScript</strong></td>
 <td>████████████████</td>
-<td><strong>—</strong></td>
+<td><strong>3 Repositories</strong></td>
 </tr>
 
 <tr>
-<td align="left"><strong>🔷 TypeScript</strong></td>
-<td>██████████████</td>
-<td><strong>—</strong></td>
+<td align="left"><strong>🟨 JavaScript</strong></td>
+<td>██████</td>
+<td><strong>1 Repository</strong></td>
 </tr>
 
 <tr>
 <td align="left"><strong>🐍 Python</strong></td>
-<td>██████████</td>
-<td><strong>—</strong></td>
+<td>██████</td>
+<td><strong>1 Repository</strong></td>
 </tr>
 
 <tr>
-<td align="left"><strong>🌐 HTML</strong></td>
+<td align="left"><strong>🟠 HTML</strong></td>
 <td>██████</td>
-<td><strong>—</strong></td>
+<td><strong>1 Repository</strong></td>
+</tr>
+
+<tr>
+<td align="left"><strong>📓 Jupyter Notebook</strong></td>
+<td>██████</td>
+<td><strong>1 Repository</strong></td>
 </tr>
 
 </table>
@@ -268,10 +256,26 @@ Inventory management application with CRUD operations, real-time updates, and re
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" colspan="2">
+🚀 <strong>Active Projects</strong><br>
+<strong>4+</strong>
+<br><br>
+</td>
+
+<td align="center" colspan="2">
+🏆 <strong>Public Stars</strong><br>
+<strong>1</strong>
+<br><br>
+</td>
+
+</tr>
+
 </table>
 
 </div>
-
 
 ## 🏅 Achievements & Certifications
 
