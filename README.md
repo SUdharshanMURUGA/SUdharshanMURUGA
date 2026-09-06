@@ -188,7 +188,6 @@ Inventory management application with CRUD operations, real-time updates, and re
 [![Followers](https://img.shields.io/github/followers/SUdharshanMURUGA?label=Followers&style=social)](https://github.com/SUdharshanMURUGA)
 
 </div>
-<br/>
 
 ## 🏅 Achievements & Certifications
 
