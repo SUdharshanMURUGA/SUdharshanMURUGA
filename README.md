@@ -173,19 +173,20 @@ Inventory management application with CRUD operations, real-time updates, and re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SUdharshanMURUGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdharshanMURUGA&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUdharshanMURUGA&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat)
-[![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social)](https://github.com/YOUR-USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=SUdharshanMURUGA&color=blueviolet&style=flat)
+[![Followers](https://img.shields.io/github/followers/SUdharshanMURUGA?label=Followers&style=social)](https://github.com/SUdharshanMURUGA)
 
 </div>
+
 
 ## 🏅 Achievements & Certifications
 
